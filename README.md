@@ -26,4 +26,7 @@
 
 12. Create merge request.
 
-Naming your branch: _<your_username>-devops-challenge_. So if your username is _linus123_, the branch you'll be pushing and requesting to merge would be named _linus123-devops-challenge._ Message me with the name and URL of the project you've decided to clone/fork so we can have a copy. Then message me once you are ready to merge your work. 
+Naming your branch: _<your_username>-devops-challenge_. So if your username is _linus123_, the branch you'll be pushing and requesting to merge would be named _linus123-devops-challenge._ Message me with the name and URL of the project you've decided to clone/fork so we can have a copy. Then message me once you are ready to merge your work.
+
+## Second Part of the Challenge:
+1. Build a pipeline (CircleCI, Terraform or both) so it can be deployed into AWS automatically after being merged into 'master'.
